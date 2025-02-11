@@ -1,4 +1,14 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+###
+
+<h2 align="left">My name is Jay and I'm a ai enthusiast, from Hyderabad!</h2>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="center">✨ Creating bugs since 2022<br>📚 I'm currently learning Generative ai<br>🎯 Goals: AI scientist<br>🎲 Fun fact: My code runs faster than my WiFi! 🚀💻<br>(Unless it's a deep learning model… then we wait. And wait. And wait… 😅)</p>
 
 ###
 
